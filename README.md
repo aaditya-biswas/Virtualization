@@ -3,7 +3,8 @@ Deploying a RESTful API/ Service over multiple virtual machines
 
 
 ## Installation of HyperVisor
-To install Virtual Machines we would require a hypervisor, such as VirtualBox, VmWorkstationPlayer etc. So first install the hypervisor in your local desktop
+To install Virtual Machines we would require a hypervisor, such as VirtualBox, VmWorkstationPlayer etc. So first install the hypervisor in your local desktop. After installing VirtualBox you should get this
+![Virtual Box Startup](https://github.com/aaditya-biswas/Virtualization/blob/main/img/VirtualBoxStart.png)
 
 ## Installation of Virtual Machines
 To install Virtual Machines we would require a .iso image file. This is an image of the operating system which can be run to create a virtual machines. I have provided some links below to the .iso files that I have used , however you are free to downlaod iso file of any operating system that you wish for. Also these VM's consume memory and space , so it is suggested to choose a lightweight OS, which has the basic functionalites. I am using MiniOS. Also I recommend you using a linux distro since I will be writing commands in bash.
